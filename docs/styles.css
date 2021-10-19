@@ -1,0 +1,16 @@
+body {
+  background-color: #98b3f759;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+}
+
+div {
+  float: left;
+}
